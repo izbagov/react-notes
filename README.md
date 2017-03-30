@@ -1,6 +1,6 @@
 # react-notes
 
-**1. Download dependencie**
+**1. Download dependencies**
 
 ```
 yarn install or npm install
