@@ -1,0 +1,25 @@
+{
+  "name": "notes-app",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Izbagov Ramazan",
+    "email": "izbagov@gmail.com",
+    "url": "https://github.com/izbagov"
+  },
+  "dependencies": {
+    "masonry-layout": "^4.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-masonry-component": "^5.0.3"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

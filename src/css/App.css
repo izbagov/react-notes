@@ -1,0 +1,10 @@
+#root {
+  width: 880px;
+  margin: 0 auto;
+}
+
+.Note-App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
